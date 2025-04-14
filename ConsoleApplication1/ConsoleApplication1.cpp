@@ -87,7 +87,9 @@ void clearList(Student* head) {
 // Главная функция
 int main() {
     setlocale(LC_ALL, "ru");
-    int count;
+    int count;// Создам счетчик
+    int i;
+    int grades;
     cout << "Сколько учеников? ";
     cin >> count;
 

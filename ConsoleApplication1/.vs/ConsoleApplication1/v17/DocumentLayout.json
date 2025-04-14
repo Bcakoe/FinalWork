@@ -1,9 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "E:\\stydent1\\ConsoleApplication1\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{7E0DB42A-EA94-43FF-9C68-F2DC768783A0}|ConsoleApplication1.vcxproj|E:\\stydent1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+=======
+  "WorkspaceRootPath": "E:\\stydent2\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0DB42A-EA94-43FF-9C68-F2DC768783A0}|ConsoleApplication1.vcxproj|E:\\stydent2\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+>>>>>>> 64e8c27a5169025d9db897035d70def5b5fadac8
       "RelativeMoniker": "D:0:0:{7E0DB42A-EA94-43FF-9C68-F2DC768783A0}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +27,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication1.cpp",
+<<<<<<< HEAD
               "DocumentMoniker": "E:\\stydent1\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
               "ToolTip": "E:\\stydent1\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeToolTip": "ConsoleApplication1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "E:\\stydent2\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
+              "ToolTip": "E:\\stydent2\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAAAKAAAAAAAAAA==",
+>>>>>>> 64e8c27a5169025d9db897035d70def5b5fadac8
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-10T18:36:20.543Z",
               "EditorCaption": ""
