@@ -88,6 +88,8 @@ void clearList(Student* head) {
 int main() {
     setlocale(LC_ALL, "ru");
     int count;
+    int i;
+    int grades;
     cout << "Сколько учеников? ";
     cin >> count;
 
