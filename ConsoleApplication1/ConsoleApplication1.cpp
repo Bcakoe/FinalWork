@@ -6,7 +6,7 @@ using namespace std;
 // Структура ученика
 struct Student {
     string surname;      // Фамилия
-    int grades[4];       // Оценки
+    int gradesss[4];       // Оценки
     Student* next;       // Следующий ученик
 };
 
@@ -18,7 +18,7 @@ Student* createStudent() {
 
     cout << "Введите 4 оценки: ";
     for (int i = 0; i < 4; i++) {
-        cin >> s->grades[i];
+        cin >> s->gradesss[i];
     }
 
     s->next = nullptr;
@@ -34,7 +34,7 @@ void addToStart(Student*& head, Student* newStudent) {
 // Проверяет, есть ли оценка меньше 3
 bool hasBadGrade(Student* s) {
     for (int i = 0; i < 4; i++) {
-        if (s->grades[i] < 3) return true;
+        if (s->gradesss[i] < 3) return true;
     }
     return false;
 }
@@ -45,7 +45,7 @@ void printList(Student* head) {
     while (current != nullptr) {
         cout << current->surname<< ": ";
         for (int i = 0; i < 4; i++) {
-            cout << current->grades[i] << " ";
+            cout << current->gradesss[i] << " ";
         }
         cout << endl;
         current = current->next;
